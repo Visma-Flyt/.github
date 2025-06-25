@@ -8,7 +8,7 @@ From school administration and child welfare to digital archiving and resident s
 
 Discover how our services are transforming public administration by visiting our main website:
 
-* 🌐 [**minflyt.no**](https://minflyt.no): Explore our solutions for municipalities, schools, and citizens in Education, Welfare, Health sectors.
+* 🌐 [**minflyt.no**](https://minflyt.no): Explore our solutions for counties, municipalities, schools, and citizens in Education, Welfare, Health sectors.
 
 ## For Developers
 
